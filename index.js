@@ -7,7 +7,7 @@ let options =
     // Set the channel name.
     channel: 'nishant-1',
     // Pass your temp token here.
-    token: '007eJxTYJiu6cNu3aJs+buIe26qwYPuI+ufL7E5oVHyQvKOwq5rK4IVGEyNzJJMUywtLM0NUk0MLI2TLE2Nk1IsTVNNTRLNjc0Tz59uS2kIZGQ4IrqRmZEBAkF8Toa8zOKMxLwSXUMGBgDAWSEF',
+    token: '007eJxTYNjxv0j7ieQEu2kVp5bVna7Rm1q0u8e60vPoMRbblXMuMf9XYDA1MksyTbG0sDQ3SDUxsDROsjQ1TkqxNE01NUk0NzZPLJrZmdIQyMhwPsaJiZEBAkF8Toa8zOKMxLwSXUMGBgA9NyGy',
     // Set the user ID.
     uid: 0,
     // Set the user role
